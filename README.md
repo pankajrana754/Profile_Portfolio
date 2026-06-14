@@ -115,8 +115,8 @@ DB_USER=root
 DB_PASSWORD=your_mysql_password
 DB_NAME=portfolio_db
 JWT_SECRET=change_this_to_a_random_string
-ADMIN_EMAIL=pankajrana00799@gmail.com
-ADMIN_PASSWORD=Admin@1234
+ADMIN_EMAIL=your_email
+ADMIN_PASSWORD=Admin_password
 CLIENT_URL=http://localhost:3000
 ```
 
@@ -135,7 +135,7 @@ npm run dev
 - **Login**: http://localhost:3000/login
 
 Default admin credentials:
-- **Email**: `pankajrana00799@gmail.com`
+- **Email**: `Enter your email`
 - **Password**: `Admin@1234`
 
 > ⚠️ Change the password immediately after first login via Admin → Settings.
